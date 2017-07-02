@@ -13,3 +13,4 @@ become fully operational 开始全面运作
 data retrieval system 数据检索系统 
 durable material 耐用的材料 
 be compatible with 与。。。一致  兼容。。。
+test
